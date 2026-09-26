@@ -1,0 +1,43 @@
+meaninglock-challenge-only-replacement/
+├── app/
+│   ├── Http/Controllers/AgreementController.php
+│   ├── Http/Controllers/Controller.php
+│   ├── Models/Agreement.php
+│   ├── Models/User.php
+│   └── Providers/AppServiceProvider.php
+├── bootstrap/
+│   ├── app.php
+│   └── providers.php
+├── database/
+│   ├── factories/UserFactory.php
+│   ├── migrations/
+│   │   ├── 0001_01_01_000000_create_users_table.php
+│   │   ├── 0001_01_01_000001_create_cache_table.php
+│   │   ├── 0001_01_01_000002_create_jobs_table.php
+│   │   └── 2026_09_23_175516_create_agreements_table.php
+│   └── seeders/DatabaseSeeder.php
+├── resources/
+│   ├── css/app.css
+│   ├── js/
+│   │   ├── App.vue
+│   │   ├── app.js
+│   │   ├── bootstrap.js
+│   │   ├── lang/ar.js
+│   │   ├── lang/en.js
+│   │   ├── pages/LivePage.vue
+│   │   ├── pages/AgreementsPage.vue
+│   │   ├── pages/ActivityPage.vue
+│   │   ├── pages/ReportsPage.vue
+│   │   ├── pages/SettingsPage.vue
+│   │   ├── stores/meaningLockStore.js
+│   │   └── styles/meaninglock.css
+│   └── views/
+│       ├── welcome.blade.php
+│       └── agreements/public.blade.php
+├── routes/
+│   ├── api.php
+│   ├── console.php
+│   └── web.php
+├── .env.challenge.example
+├── REPLACE_FOR_CHALLENGE.md
+└── FOLDER_STRUCTURE.txt
