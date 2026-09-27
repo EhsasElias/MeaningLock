@@ -1,0 +1,10 @@
+.git
+.github
+.env
+.env.*
+node_modules
+vendor
+public/build
+storage/logs/*
+npm-debug.log
+README.md
