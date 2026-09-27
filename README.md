@@ -8,6 +8,14 @@ MeaningLock is a real-time **agreement firewall** that listens to two people, ex
 
 Built for the **AssemblyAI Voice Agent Hackathon**.
 
+## 🔗 Live Demo
+
+**https://meaninglock-production-95bb.up.railway.app**
+
+## 💻 GitHub
+
+**https://github.com/EhsasElias/MeaningLock**
+
 ---
 
 ## The Problem
